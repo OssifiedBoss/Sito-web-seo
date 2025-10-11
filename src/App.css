@@ -1,0 +1,14 @@
+.app {
+  min-height: 100vh;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reset default margins/padding on sections */
+section {
+  margin: 0;
+  padding: 0;
+}
